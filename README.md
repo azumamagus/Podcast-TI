@@ -1,24 +1,28 @@
 # Podcast-Nacionais
 
 ##Banco de dados
+
 - [DatabaseCast](http://databasecast.com.br/wp/)
 
 ##GNU/Linux
--[OpenCast](http://tecnologiaaberta.com.br/category/opencast/)
+
+- [OpenCast](http://tecnologiaaberta.com.br/category/opencast/)
 
 ##Dev, Infra, Segurança e outros
--[GrokPodcast](http://www.grokpodcast.com/)
--[Curto Circuito](http://curtocircuito.cc/)
--[VoidPodcast](https://voidpodcast.wordpress.com/)
--[PiratasPodcast](http://piratas.podomatic.com/)
+
+- [GrokPodcast](http://www.grokpodcast.com/)
+- [Curto Circuito](http://curtocircuito.cc/)
+- [VoidPodcast](https://voidpodcast.wordpress.com/)
+- [PiratasPodcast](http://piratas.podomatic.com/)
+- [Hipsters](http://hipsters.tech/category/podcast/)
 
 # Podcast-Internacionais
 
 ##GNU/Linux
 
--[GoingLinux](http://goinglinux.com/)
--[LinuxAction](http://goinglinux.com/)
--[LinuxAdmin](http://linuxadminshow.com/)
+- [GoingLinux](http://goinglinux.com/)
+- [LinuxAction](http://goinglinux.com/)
+- [LinuxAdmin](http://linuxadminshow.com/)
 
 
 
