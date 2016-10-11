@@ -16,6 +16,17 @@
 - [PiratasPodcast](http://piratas.podomatic.com/)
 - [Hipsters](http://hipsters.tech/category/podcast/)
 
+##entrevista em TI:
+- [castalio Podcast](http://castalio.info/)
+
+##Retro computação:
+- [Retrocomputaria](http://www.retrocomputaria.com.br/o-podcast/)
+
+##Segurança de informação, hacking
+- [hack n cast](http://hackncast.org/)
+- [Segurança Legal](http://www.segurancalegal.com/lista-de-episodios/)
+- [i sh0t the sheriff](http://www.naopod.com.br/)
+
 # Podcast-Internacionais
 
 ##GNU/Linux
@@ -24,8 +35,8 @@
 - [LinuxAction](http://goinglinux.com/)
 - [LinuxAdmin](http://linuxadminshow.com/)
 
-
-
+###Podcast de Distros
+- [Mint cast](https://mintcast.org/)
 
 # Contributors
 
