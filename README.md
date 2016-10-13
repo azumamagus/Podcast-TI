@@ -8,24 +8,43 @@
 
 - [OpenCast](http://tecnologiaaberta.com.br/category/opencast/)
 
-##Dev, Infra, Segurança e outros
+##Desenvolvimento e Infra
 
 - [GrokPodcast](http://www.grokpodcast.com/)
 - [Curto Circuito](http://curtocircuito.cc/)
 - [VoidPodcast](https://voidpodcast.wordpress.com/)
 - [PiratasPodcast](http://piratas.podomatic.com/)
 - [Hipsters](http://hipsters.tech/category/podcast/)
+- [Tableless](http://tableless.com.br/podcasts/drops-podcasts/)
+- [AspNetCast](https://www.youtube.com/channel/UC1DrB2LTgVBGiZdgaOrzMCg/videos)
+- [CapyCast](https://soundcloud.com/rdshipit/sets/capycast)
+- [CarCast](https://soundcloud.com/carcastprogramming)
+- [CocoaHeads](https://itunes.apple.com/br/podcast/cocoaheads-brasil/id1044808957?mt=2)
+- [CodeCast](https://codecasts.com.br/podcast)
 
-##entrevista em TI:
-- [castalio Podcast](http://castalio.info/)
+##Entrevistas em TI:
+
+- [CastalioInfoCast](http://castalio.info/)
+- [Tribodoci](http://tribodoci.net/categoria/podcast/)
+- [CodeTalks](https://itunes.apple.com/us/podcast/codetalks/id939257121)
 
 ##Retro computação:
+
 - [Retrocomputaria](http://www.retrocomputaria.com.br/o-podcast/)
 
 ##Segurança de informação, hacking
+
 - [hack n cast](http://hackncast.org/)
 - [Segurança Legal](http://www.segurancalegal.com/lista-de-episodios/)
 - [i sh0t the sheriff](http://www.naopod.com.br/)
+- [SeginfoCast](https://seginfo.com.br/category/podcast-seguranca-tecnologia-da-informacao-seginfocast/)
+
+##Outros no geral (Nerds, Tecnologias e diversos)
+
+- [Scicast](http://www.deviante.com.br/)
+- [TecnoCast](https://tecnoblog.net/categoria/podcast/)
+- [UltraGeek](http://www.redegeek.com.br/podcast/)
+- [CocaTech](https://itunes.apple.com/br/podcast/cocatech/id437224054?mt=2)
 
 # Podcast-Internacionais
 
@@ -41,3 +60,7 @@
 # Contributors
 
 Feel free to contribute - Adicione os PodCasts que ainda não estão listados!
+
+# Outras listas de PodCast no github
+
+- https://github.com/ogilvieira/awesome-podcasts-br
