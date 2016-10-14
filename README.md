@@ -64,3 +64,9 @@ Feel free to contribute - Adicione os PodCasts que ainda não estão listados!
 # Outras listas de PodCast no github
 
 - https://github.com/ogilvieira/awesome-podcasts-br
+- https://github.com/wayneashleyberry/awesome-podcasts
+- https://github.com/vermont42/Podcasts
+- https://github.com/guipdutra/awesome-geek-podcasts
+- https://github.com/ryanburgess/web-development-podcasts
+- https://github.com/vernonk/webdev-podcasts
+- https://github.com/timarney/podcasts
