@@ -13,7 +13,7 @@
 - [GrokPodcast](http://www.grokpodcast.com/)
 - [Curto Circuito](http://curtocircuito.cc/)
 - [VoidPodcast](https://voidpodcast.wordpress.com/)
-- [PiratasPodcast](http://piratas.podomatic.com/)
+- [PiratasPodcast](https://piratasdainternet.github.io/)
 - [Hipsters](http://hipsters.tech/category/podcast/)
 - [Tableless](http://tableless.com.br/podcasts/drops-podcasts/)
 - [AspNetCast](https://www.youtube.com/channel/UC1DrB2LTgVBGiZdgaOrzMCg/videos)
