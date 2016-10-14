@@ -28,6 +28,7 @@
 - [CastalioInfoCast](http://castalio.info/)
 - [Tribodoci](http://tribodoci.net/categoria/podcast/)
 - [CodeTalks](https://itunes.apple.com/us/podcast/codetalks/id939257121)
+- [DevNaEstrada](https://soundcloud.com/devnaestrada)
 
 ##Retro computação:
 
