@@ -41,8 +41,15 @@
 - [i sh0t the sheriff](http://www.naopod.com.br/)
 - [SeginfoCast](https://seginfo.com.br/category/podcast-seguranca-tecnologia-da-informacao-seginfocast/)
 
+##Humor
+
+-[Minuto de Silêncio](http://www.minutodesilencio.com/)
+
 ##Outros no geral (Nerds, Tecnologias e diversos)
 
+- [AntiCast](http://anticast.com.br/)
+- [Dragões de Garagem](http://dragoesdegaragem.com/podcast/dragoes-de-garagem/)
+- [Café Brasil](http://www.portalcafebrasil.com.br/todos/podcasts/)
 - [Scicast](http://www.deviante.com.br/)
 - [TecnoCast](https://tecnoblog.net/categoria/podcast/)
 - [UltraGeek](http://www.redegeek.com.br/podcast/)
