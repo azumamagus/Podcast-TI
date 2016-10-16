@@ -43,7 +43,7 @@
 
 ##Humor
 
--[Minuto de Silêncio](http://www.minutodesilencio.com/)
+- [Minuto de Silêncio](http://www.minutodesilencio.com/)
 
 ##Outros no geral (Nerds, Tecnologias e diversos)
 
