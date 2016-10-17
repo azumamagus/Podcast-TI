@@ -43,6 +43,8 @@
 
 ##Outros no geral (Nerds, Tecnologias e diversos)
 
+- [AntiCast](http://anticast.com.br/)
+- [Dragões de Garagem](http://dragoesdegaragem.com/podcast/dragoes-de-garagem/)
 - [Scicast](http://www.deviante.com.br/)
 - [TecnoCast](https://tecnoblog.net/categoria/podcast/)
 - [UltraGeek](http://www.redegeek.com.br/podcast/)
